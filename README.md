@@ -14,8 +14,8 @@ This repository is for a web application, PFM.
    - Github
 
 ## Infrastructure
-- GCP
-   - GCS(Google Cloud Storage) : unstructured data storage(like S3)
+- AWS
+   - S3
 - Advertisement
    - Google AdSense
 - DNS
